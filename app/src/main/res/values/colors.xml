@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b1b1b</color>
+    <color name="colorPrimaryDark">#0c0c0d</color>
+    <color name="colorAccent">#5ba8bc</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>
